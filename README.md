@@ -1,5 +1,11 @@
 # Optimizing-marketing-expenses
 This project was made as an assignment for Practicum100 Data Analyst course to maser Business Analitics.
+In this project we've created:
+* report on product: DAU, WAU, MAU, sticky factor, number of sessions per day and per device, session length, and retention rate;
+* report on sales: conversion, purchase frequency, average purchase size, and LTV;  
+* report on marketing: marketing costs, CAC, and ROI. 
+
+Fro data visualization we've used Matplotlib, Seaborn and Plotly libraries.
 
 Project description:
 
